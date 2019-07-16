@@ -27,3 +27,32 @@ URL: https://www.techiediaries.com/angular-bootstrap-ui/
 cmd: ng test
 
 ## Testing Definition
+
+What is automated testing?
+Practice of writing code test our code. and run those code in automated
+
+## Type OF Test?
+![Test-Types](https://user-images.githubusercontent.com/30646609/61301897-7ce08280-a802-11e9-8575-68909af4a94f.JPG)
+
+## Test Example Code
+![Testing-Example](https://user-images.githubusercontent.com/30646609/61301883-78b46500-a802-11e9-9871-7f192524cb49.JPG)
+
+## Unit Test:
+   Test a Component in isolation, without external resources (e.g file system, database, API endpoints)
+   Unit tests: component
+   Easiest to write
+   SuperFast
+   Don't give us much confidence
+
+
+## Integration 
+   Test a component with external resources (e.g file system, database, API endpoint)
+   Integration tests: component + template
+
+## Ent-to-End
+   Test the entire application as a whole.
+   More  Confidence
+   Very slow
+   Very fragile
+
+
