@@ -25,9 +25,10 @@ URL: https://www.techiediaries.com/angular-bootstrap-ui/
 
 ## Run-Test
 cmd: ng test
+## Clean Coding Practices 
+![Clean Coding Practices](https://user-images.githubusercontent.com/30646609/61302428-61c24280-a803-11e9-90f9-1c8509404ab5.JPG)
 
 ## Testing Definition
-
 What is automated testing?
 Practice of writing code test our code. and run those code in automated
 
@@ -43,11 +44,21 @@ Practice of writing code test our code. and run those code in automated
    Easiest to write
    SuperFast
    Don't give us much confidence
-
+   
+ ## Unit Test Code Sample
+   ![Images For Unit testing](https://user-images.githubusercontent.com/30646609/61302456-6c7cd780-a803-11e9-904e-14b881c1b49c.JPG)
+ ## Unit Test Image 
+   ![Images For Unit testing - Fake Service](https://user-images.githubusercontent.com/30646609/61302471-730b4f00-a803-11e9-9bfa-b56bb73bc0cd.JPG)
 
 ## Integration 
    Test a component with external resources (e.g file system, database, API endpoint)
    Integration tests: component + template
+   
+## Integration Test Code Sample
+   ![Images For Integration testing](https://user-images.githubusercontent.com/30646609/61302362-46efce00-a803-11e9-8c57-48c74ee6dfe2.JPG)
+   
+## Integration Test Image 
+   ![Images For Integration testing- Realservice](https://user-images.githubusercontent.com/30646609/61302394-5242f980-a803-11e9-8d56-f7d494273fbf.JPG)
 
 ## Ent-to-End
    Test the entire application as a whole.
