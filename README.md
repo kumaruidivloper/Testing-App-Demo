@@ -1,5 +1,5 @@
 ## App Setup
-Step1: ng new <AppName> --style=scss --routing --prefix myprefix
+Step1: ng new [AppName] --style=scss --routing --prefix myprefix
 
 ## Install Bootstrap
 Step3: npm install bootstrap --save
